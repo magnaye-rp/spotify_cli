@@ -1,0 +1,32 @@
+node_modules/
+npm-debug.log*
+.DS_Store
+.env
+.env.local
+.env.*.local
+
+# Local config and tokens
+.spotify-cli/
+~/.spotify-cli/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.AppleDouble
+.LSOverride
+Thumbs.db
+Desktop.ini
+
+# Logs
+logs/
+*.log
+
+# Development
+.nodemon.json
+coverage/
+dist/
